@@ -1,26 +1,26 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object: 🖐️ used
   - this
-  - arrow function
+  - arrow function: 👂 heard
   - async function
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof: 👂 heard
   - ...spread
   - ...rest
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator: 🖐️ used
   - async generator
   - async iterator
   - chaining
   - optional chaining
-  - IIFE
-  - global
+  - IIFE: 👂 heard
+  - global: 🖐️ used
   - globalThis
   - window
   - getters and setters
@@ -28,9 +28,9 @@
   - prototype
   - equality operators
   - logical operators
-  - bitwise operators
+  - bitwise operators: 👂 heard
   - ternary operator
-  - void
+  - void: 🖐️ used
   - yield
   - await
   - template literal
@@ -38,27 +38,27 @@
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 👂 heard
   - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🖐️ used
+  - label: 🖐️ used
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 👂 heard
+  - with: 🖐️ used
 - Functions
   - function declaration
   - function expression
@@ -66,24 +66,24 @@
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
-  - extend
+  - extend: 👂 heard
   - typed arrays
   - Map
   - Set
   - undefined
-  - null
+  - null: 🖐️ used
   - Proxy
   - weak collections
   - timers
   - EventEmitter
-  - RegExp
+  - RegExp: 👂 heard
   - Date
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
