@@ -2,7 +2,7 @@
 
 - Language
   - Object: 🖐️ used
-  - this
+  - this🖐️ used
   - arrow function: 👂 heard
   - async function
   - call
@@ -22,7 +22,7 @@
   - IIFE: 👂 heard
   - global: 🖐️ used
   - globalThis
-  - window
+  - window🖐️ used
   - getters and setters
   - __proto__
   - prototype
