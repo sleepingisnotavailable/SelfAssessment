@@ -2,94 +2,94 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch: 🖐️ used
   - Non-blocking
-  - Async I/O
+  - Async I/O: 👂 heard
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor: 👂 heard
   - CAS operations
-  - epoll
-  - kqueue
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
   - Completion ports
   - Event ports
-  - libuv
+  - libuv: 👂 heard
   - Race conditions
-  - Dead locks
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
   - Callbacks
   - Callback-last-error-first
-  - Thenable
+  - Thenable: 👂 heard
   - Promise
-  - Async/await
+  - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 👂 heard
   - Async Generator
   - Async Iterator
   - Event
   - Coroutine
-  - Goroutine
+  - Goroutine: 👂 heard
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
   - callbackify
   - promisify
-  - asyncify
+  - asyncify: 👂 heard
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🖐️ used
   - Observable/Observer
   - Readable
-  - Writable
+  - Writable: 👂 heard
   - Transform
   - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 🖐️ used
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
   - setImmediate
-  - nextTick
+  - nextTick: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
+  - child_process: 👂 heard
   - worker_threads
   - Atomics
-  - High resolution clock
+  - High resolution clock: 👂 heard
   - Callback hell
-  - Promise hell
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 🖐️ used
   - promisify
   - callbackify
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
 - Techniques
   - async.js library
-  - RxJS library
-  - Async composition
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
+  - RxJS library: 👂 heard
+  - Async composition: 👂 heard
+  - Promise.all: 👂 heard
+  - Promise.allSettled: 👂 heard
+  - Promise.race: 👂 heard
   - Promise.any
   - Web Locks API
   - IPC
-  - Channel API
+  - Channel API: 👂 heard
   - Revealing Constructor
   - Web Locks API
